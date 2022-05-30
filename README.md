@@ -5,7 +5,7 @@
 | **🇻🇳Website** | **none** |
 | **🇻🇳Poggit** | **none** |
 <br>
-✔️ The plugin helps players have a table of completed tasks to receive rewards ✔️
+✔️ The plugin helps players have a table of completed tasks to receive rewards!
 <br>
 
 # Features
