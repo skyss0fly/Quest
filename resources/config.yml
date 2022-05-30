@@ -1,0 +1,10 @@
+---
+time: 3600 #(giây) điều chỉnh bao nhiêu lâu player sẽ được làm lại nhiệm vụ
+
+money: #Điều chỉnh số tiền sẽ nhận khi hoàn thènh nhiệm vụ
+ nv1: 10000
+ nv2: 10000
+ nv3: 10000
+ nv4: 10000
+ nv5: 10000
+...

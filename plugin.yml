@@ -1,0 +1,10 @@
+name: Quets
+main: NhanOfficial\nhiemvu\Main
+author: NhanOfficial
+api: 4.0.0
+version: 1.0.0
+
+permissions:
+ nhiemvu.use.command:
+  description: Allow the player use nhiemvu command
+  default: true
